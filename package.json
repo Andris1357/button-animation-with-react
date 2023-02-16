@@ -1,0 +1,14 @@
+{
+  "name": "reactmod",
+  "version": "0.0.0",
+  "description": "",
+  "main": "React/server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-native-radial-gradient": "^1.0.9"
+  }
+}
